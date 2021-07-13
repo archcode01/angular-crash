@@ -1,3 +1,12 @@
+This is hands on practise of the Angular course from Traversy Media (https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) on youtube  https://www.youtube.com/watch?v=3dHNOWTI7H8
+
+Followed along the video and created this repo.
+
+Orignal code repo - https://github.com/bradtraversy/angular-crash-2021
+
+From below here all the documentation is from original repo.
+
+
 # AngularCrash
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
